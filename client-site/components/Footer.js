@@ -12,6 +12,9 @@ export default function Footer() {
           <Link href="/contact" className="footer-link">
             Get in touch
           </Link>
+          <Link href="https://axolo.ai" className="footer-link">
+            Visit Axolo
+          </Link>
         </div>
       </div>
     </footer>
