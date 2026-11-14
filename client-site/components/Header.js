@@ -5,6 +5,7 @@ const links = [
   { href: "/about", label: "About" },
   { href: "/services", label: "Services" },
   { href: "/contact", label: "Contact" },
+  { href: "https://axolo.ai", label: "Axolo" },
 ];
 
 export default function Header() {
